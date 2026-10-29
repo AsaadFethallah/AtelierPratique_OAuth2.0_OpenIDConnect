@@ -1,0 +1,18 @@
+# Maven / Java
+demandes-api/target/
+*.class
+
+# Node / Vite
+demandes-front/node_modules/
+demandes-front/dist/
+
+# IDE et système
+.idea/
+.vscode/
+*.iml
+Thumbs.db
+.DS_Store
+
+# Fichiers temporaires locaux
+.initializr.zip
+*.log
